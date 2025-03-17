@@ -2,6 +2,7 @@ import logging
 from telethon import TelegramClient, events
 from telethon.tl.functions import channels
 from telethon.tl.types import ChatBannedRights
+from pyrogram import Client
 
 # 🛠️ Configure Logging
 logging.basicConfig(level=logging.INFO)
