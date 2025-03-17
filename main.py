@@ -1,6 +1,6 @@
 import logging
 from telethon import TelegramClient, events
-from telethon.tl.functions.channels import EditBanned
+from telethon.tl.functions import channels
 from telethon.tl.types import ChatBannedRights
 
 # 🛠️ Configure Logging
