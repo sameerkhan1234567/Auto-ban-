@@ -8,8 +8,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # 🏆 Telegram API credentials
-API_ID = 'YOUR_API_ID'
-API_HASH = 'YOUR_API_HASH'
+API_ID = '29755489'
+API_HASH = '05e0d957751c827aa03494f503ab54fe'
 BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 # 🚀 Initialize Client
